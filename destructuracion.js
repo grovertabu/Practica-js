@@ -1,0 +1,1 @@
+console.log('Destructuracion de Objetos');
